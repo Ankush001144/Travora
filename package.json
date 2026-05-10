@@ -2,7 +2,7 @@
   "name": "travora",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ankush001144.github.io/travora/",
+  "homepage": "https://ankush001144.github.io/Travora/",
   "type": "module",
   "scripts": {
     "dev": "vite",
